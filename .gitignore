@@ -1,0 +1,61 @@
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Node modules (if any)
+node_modules/
+
+# Coverage reports
+coverage/
+.coverage
+.nyc_output
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Audio files (temporary recordings)
+*.wav
+*.webm
+*.mp3
+*.m4a
+temp_audio/
