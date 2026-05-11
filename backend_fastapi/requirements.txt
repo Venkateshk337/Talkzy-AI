@@ -1,9 +1,11 @@
 fastapi
 uvicorn
-python-dotenv
-pydantic
-openai
-google-genai
-httpx
-whisper
 python-multipart
+faster-whisper
+ctranslate2
+tokenizers
+onnxruntime
+google-genai
+openai
+httpx
+pydantic
